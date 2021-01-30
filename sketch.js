@@ -10,7 +10,7 @@ function draw() {
   let c = color(255, 204, 0);
   fill(c);
   noStroke();
-  rect(50, 50, 270, 250);
+  rect(50, 50, 70, 250);
   fill(255);
   textStyle(BOLD);
   textSize(140);
