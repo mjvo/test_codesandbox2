@@ -11,7 +11,7 @@ function draw() {
   fill(c);
   noStroke();
   rect(50, 50, 70, 250);
-  fill(255);
+  fill(0);
   textStyle(BOLD);
   textSize(140);
   text("test", 60, 250);
